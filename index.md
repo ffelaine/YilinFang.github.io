@@ -83,9 +83,11 @@ permalink: /
 <section id="-honors-and-awards">
   <h2>🏆 Honors and Awards</h2>
   <ul>
-    <li><em>Coming soon.</em></li>
+    <li><strong>Beijing Division – First Prize</strong>, China Undergraduate Mathematical Contest in Modeling (CUMCM), 2025</li>
+    <li><strong>BUPT University Scholarship – First Class</strong>, Academic Year 2023–2024</li>
   </ul>
 </section>
+
 
 <section id="-educations">
   <h2>🎓 Educations</h2>
