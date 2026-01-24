@@ -23,13 +23,15 @@ permalink: /
   </p>
 
   <p>
+    <strong>Hobbies:</strong> bouldering &amp; rock climbing, traveling, and watching films.
+  </p>
+  
+  <p>
     I would like to share research updates, reflections & thinking,
     and personal interests. Feel free to reach out and exchange ideas!
   </p>
 
-  <p>
-    <strong>Hobbies:</strong> bouldering &amp; rock climbing, traveling, and watching films.
-  </p>
+  
 </section>
 
 <section id="-news">
