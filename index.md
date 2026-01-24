@@ -25,7 +25,7 @@ permalink: /
   <p>
     <strong>Hobbies:</strong> bouldering &amp; rock climbing, traveling, and watching films.
   </p>
-  
+
   <p>
     I would like to share research updates, reflections & thinking,
     and personal interests. Feel free to reach out and exchange ideas!
@@ -43,10 +43,42 @@ permalink: /
 
 <section id="-publications">
   <h2>📝 Publications</h2>
-  <ul>
-    <li><em>Coming soon.</em></li>
-  </ul>
+
+  <div style="margin: 10px 0 16px 0;">
+    <div style="font-weight:700;">
+      Vision Transformer-Based Recognition of Chinese Cursive Calligraphy: A Curriculum Learning and Skeleton Embedding Approach
+    </div>
+
+    <div style="margin-top:6px; line-height:1.6;">
+      Xinrui Shan, Jinyang Zheng, <strong>Yilin Fang</strong>, Tianhong Qi<br/>
+      <em>CONF-MLA 2024</em> (Proceedings of the 2nd International Conference on Machine Learning and Automation)
+    </div>
+
+    <div style="margin-top:6px;">
+      <span style="opacity:0.9;">
+        ViT-based cursive calligraphy recognition with curriculum learning and skeleton embeddings.
+      </span>
+    </div>
+
+    <!-- 可选：有链接再打开 -->
+    <!--
+    <div style="margin-top:8px;">
+      <a href="PASTE_PAPER_LINK_HERE">Paper</a> ·
+      <a href="PASTE_CODE_LINK_HERE">Code</a>
+    </div>
+    -->
+
+    <details style="margin-top:8px;">
+      <summary style="cursor:pointer;"><strong>Abstract</strong></summary>
+      <p style="margin-top:8px; line-height:1.7;">
+        Chinese cursive calligraphy recognition is challenging due to large variations in structure and style.
+        We propose ViT-based models enhanced with curriculum learning and skeleton embeddings to better capture
+        structural cues, achieving improved accuracy on a self-made cursive calligraphy dataset.
+      </p>
+    </details>
+  </div>
 </section>
+
 
 <section id="-honors-and-awards">
   <h2>🏆 Honors and Awards</h2>
