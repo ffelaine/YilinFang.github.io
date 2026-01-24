@@ -19,9 +19,7 @@ permalink: /
   </p>
 
   <p>
-    On the engineering side, I mainly work with <strong>Python</strong>, and I also write
-    <strong>Java</strong> and <strong>C++</strong> when needed. I’m especially interested in building reproducible
-    research code and clean experimental setups.
+    <strong>Tech Stack:</strong> Python, Java, C++.
   </p>
 
   <p>
