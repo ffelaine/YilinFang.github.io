@@ -106,6 +106,13 @@ permalink: /
 <section id="-internships">
   <h2>💼 Internships</h2>
   <ul>
-    <li><em>Coming soon.</em></li>
+    <li>
+      <strong>Research Intern</strong>, <a href="http://www.mrobotit.cn/Default.aspx#实验室">mRobotIT Lab</a>
+      <span style="opacity:0.85;">(Aug 2025 – Present)</span><br/>
+      <span style="opacity:0.95;">
+        Research on pixel-level IQA and omnidirectional image quality assessment.
+      </span>
+    </li>
   </ul>
 </section>
+
