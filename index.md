@@ -25,7 +25,7 @@ permalink: /
   </p>
 
   <p>
-    This site is a place where I’ll share learning notes, research updates, academic writing, reflections,
+    I would like to share research updates, reflections & thinking,
     and personal interests. Feel free to reach out and exchange ideas!
   </p>
 
