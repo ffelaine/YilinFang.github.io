@@ -5,59 +5,73 @@ permalink: /
 ---
 
 <section id="about-me">
+  <h2>About</h2>
 
-## About
+  <p>
+    I’m an undergraduate student at <strong>Beijing University of Posts and Telecommunications (BUPT)</strong>
+    (2023–2027 expected).
+  </p>
 
-I’m an undergraduate student at **Beijing University of Posts and Telecommunications (BUPT)** (2023–2027 expected).
+  <p>
+    My research interests broadly lie in <strong>Computer Vision</strong>, with a current focus on
+    <strong>Image Quality Assessment (IQA)</strong>, <strong>omnidirectional images</strong>,
+    <strong>3D reconstruction</strong>, and <strong>agent-based systems</strong> for vision and multimodal tasks.
+  </p>
 
-My research interests broadly lie in **Computer Vision**, with a current focus on **Image Quality Assessment (IQA)**, **omnidirectional images**, **3D reconstruction**, and **agent-based systems** for vision and multimodal tasks.
+  <p>
+    On the engineering side, I mainly work with <strong>Python</strong>, and I also write
+    <strong>Java</strong> and <strong>C++</strong> when needed. I’m especially interested in building reproducible
+    research code and clean experimental setups.
+  </p>
 
-On the engineering side, I mainly work with **Python**, and I also write **Java** and **C++** when needed. I’m especially interested in building reproducible research code and clean experimental setups.
+  <p>
+    This site is a place where I’ll share learning notes, research updates, academic writing, reflections,
+    and personal interests. Feel free to reach out and exchange ideas!
+  </p>
 
-This site is a place where I’ll share learning notes, research updates, academic writing, reflections, and personal interests. Feel free to reach out and exchange ideas!
-
-**Hobbies:** bouldering & rock climbing, traveling, and watching films.
-
+  <p>
+    <strong>Hobbies:</strong> bouldering &amp; rock climbing, traveling, and watching films.
+  </p>
 </section>
 
 <section id="-news">
-
-## 🔥 News
-_Coming soon._
-
+  <h2>🔥 News</h2>
+  <ul>
+    <li><em>Coming soon.</em></li>
+  </ul>
 </section>
 
 <section id="-publications">
-
-## 📝 Publications
-_Coming soon._
-
+  <h2>📝 Publications</h2>
+  <ul>
+    <li><em>Coming soon.</em></li>
+  </ul>
 </section>
 
 <section id="-honors-and-awards">
-
-## 🏆 Honors and Awards
-_Coming soon._
-
+  <h2>🏆 Honors and Awards</h2>
+  <ul>
+    <li><em>Coming soon.</em></li>
+  </ul>
 </section>
 
 <section id="-educations">
-
-## 🎓 Educations
-- BUPT International College, 2023–2027 (expected)
-
+  <h2>🎓 Educations</h2>
+  <ul>
+    <li>BUPT International College, 2023–2027 (expected)</li>
+  </ul>
 </section>
 
 <section id="-invited-talks">
-
-## 🎤 Invited Talks
-_Coming soon._
-
+  <h2>🎤 Invited Talks</h2>
+  <ul>
+    <li><em>Coming soon.</em></li>
+  </ul>
 </section>
 
 <section id="-internships">
-
-## 💼 Internships
-_Coming soon._
-
+  <h2>💼 Internships</h2>
+  <ul>
+    <li><em>Coming soon.</em></li>
+  </ul>
 </section>
