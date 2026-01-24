@@ -7,8 +7,9 @@
 
 # Site Settings
 title                    : "Yilin Fang"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Undergraduate @ BUPT | Computer Vision, IQA, omnidirectional images, 3D reconstruction, and agents."
 repository               : "ffelaine/YilinFang.github.io"
+baseurl: "/YilinFang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
