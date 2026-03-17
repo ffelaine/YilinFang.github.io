@@ -13,9 +13,8 @@ permalink: /
   </p>
 
   <p>
-    My research interests broadly lie in <strong>Computer Vision</strong>, with a current focus on
-    <strong>Image Quality Assessment (IQA)</strong>, <strong>omnidirectional images</strong>,
-    <strong>3D reconstruction</strong>, and <strong>agent-based systems</strong> for vision and multimodal tasks.
+    My research interests lie in <strong>Computer Vision</strong>, with a current focus on
+    <strong>Image Quality Assessment (IQA)</strong>, <strong>3D reconstruction</strong>, and <strong>AI agent</strong> for vision and multimodal tasks.
   </p>
 
   <p>
@@ -37,6 +36,7 @@ permalink: /
 <section id="-news">
   <h2>🔥 News</h2>
   <ul>
+    <li>🎉🎉 One paper accepted to <strong>ICME 2026</strong> (camera-ready version coming soon).</li>
     <li><em>Coming soon.</em></li>
   </ul>
 </section>
