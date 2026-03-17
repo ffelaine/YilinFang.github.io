@@ -36,7 +36,7 @@ permalink: /
 <section id="-news">
   <h2>🔥 News</h2>
   <ul>
-    <li>🎉🎉 One paper accepted to <strong>ICME 2026</strong> (camera-ready version coming soon).</li>
+    <li>🎉🎉 2026.03 One paper accepted to <strong>ICME 2026</strong> (camera-ready version coming soon).</li>
   </ul>
 </section>
 
