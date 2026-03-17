@@ -37,7 +37,6 @@ permalink: /
   <h2>🔥 News</h2>
   <ul>
     <li>🎉🎉 One paper accepted to <strong>ICME 2026</strong> (camera-ready version coming soon).</li>
-    <li><em>Coming soon.</em></li>
   </ul>
 </section>
 
